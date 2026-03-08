@@ -1,1 +1,8 @@
-
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.boskardcreations.parsecwars",
+    "sha256_cert_fingerprints": ["A0:B0:BC:8C:DF:16:0B:6E:82:44:3E:18:8C:20:0F:2F:00:46:BD:05:9C:06:2F:9A:74:47:2E:18:7F:47:E4:ED"]
+  }
+}]
