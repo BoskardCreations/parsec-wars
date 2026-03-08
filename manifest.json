@@ -2,7 +2,7 @@
   "name": "Parsec Wars",
   "short_name": "Parsec Wars",
   "description": "Real-time strategy galaxy domination game",
-  "start_url": "parsec-wars.html",
+  "start_url": https://boskardcreations.github.io/parsec-wars/parsec-wars.html",
   "display": "fullscreen",
   "orientation": "landscape",
   "background_color": "#000008",
